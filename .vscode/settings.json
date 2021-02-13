@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/91927d56-8e1b-45bf-a9b3-b791bd1c3734/resourceGroups/JithinResourceGroup2/providers/Microsoft.Web/sites/JLNAS1",
+    "appService.deploySubpath": "."
+}
